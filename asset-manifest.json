@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/love-compatibility-calcu/static/css/main.3d2e3644.css",
+    "main.js": "/love-compatibility-calcu/static/js/main.fa459ebd.js",
+    "static/js/453.b72335c1.chunk.js": "/love-compatibility-calcu/static/js/453.b72335c1.chunk.js",
+    "index.html": "/love-compatibility-calcu/index.html",
+    "main.3d2e3644.css.map": "/love-compatibility-calcu/static/css/main.3d2e3644.css.map",
+    "main.fa459ebd.js.map": "/love-compatibility-calcu/static/js/main.fa459ebd.js.map",
+    "453.b72335c1.chunk.js.map": "/love-compatibility-calcu/static/js/453.b72335c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d2e3644.css",
+    "static/js/main.fa459ebd.js"
+  ]
+}
